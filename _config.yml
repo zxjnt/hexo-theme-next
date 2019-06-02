@@ -160,7 +160,8 @@ menu:
   home: / || home
   #about: /about/ || user
   #tags: /tags/ || tags
-  C公开课: /categories/IT/C || th
+  C: /categories/IT/C || th
+  基础课: /categories/IT || th
   archives: /archives/ || archive
   #schedule: /schedule/ || calendar
   #sitemap: /sitemap.xml || sitemap
