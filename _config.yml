@@ -161,7 +161,7 @@ menu:
   #about: /about/ || user
   #tags: /tags/ || tags
   C: /categories/IT/C || th
-  基础课: /categories/IT || th
+  基础: /categories/IT/Base || th
   archives: /archives/ || archive
   #schedule: /schedule/ || calendar
   #sitemap: /sitemap.xml || sitemap
